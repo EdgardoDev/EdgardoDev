@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="EdgardoPinto-Escalier's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EdgardoPinto-Escalier&show_icons=true&hide_border=true?count_private=true" />
+<img align="left" alt="EdgardoPinto-Escalier's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EdgardoPinto-Escalier&show_icons=true&hide_border=true?count_private=true?title_color=purple" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgardoPinto-Escalier)](https://github.com/anuraghazra/github-readme-stats)
