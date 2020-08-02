@@ -1,6 +1,6 @@
 ### HI THERE, I'M EDGARDO - AKA [E][website] 👋
 
-## I'M A FULL STACK DEVELOPER
+### I'M A FULL STACK DEVELOPER
 
 - 🚀  I’m currently working on different projects
 - 💻  I’m currently learning Deno and TypeScript
