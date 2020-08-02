@@ -31,9 +31,9 @@
 [<img align="left" alt="Express" width="26px" title="EXPRESSJS" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/express.png?raw=true" />][website]
 [<img align="left" alt="Java" width="26px" title="JAVA" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/java.png?raw=true" />][website]
 [<img align="left" alt="Spring Boot" width="26px" title="SPRING BOOT" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/spring-boot-logo.png?raw=true" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="SQL" width="26px" title="SQL" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/sql.png?raw=true" />][website]
+[<img align="left" alt="PostgreSQL" width="26px" title="POSTGRESQL" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/postgresql.png?raw=true" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
