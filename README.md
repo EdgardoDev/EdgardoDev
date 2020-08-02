@@ -2,11 +2,11 @@
 
 ## I'm a Full-Stack Developer
 
-- 🔭 I’m currently working on different projects
-- 🌱 I’m currently learning Deno and TypeScript
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: In my free time I like to work with wood (carpentry)
+- 🚀 I’m currently working on different projects
+- 👨‍ I’m currently learning Deno and TypeScript
+- 🤲 I’m looking to collaborate with other Developers
+- 🛣️ 2020 Goals: Contribute more to Open Source projects
+- 😀 Fun fact: In my free time I like to work with wood (carpentry)
 
 ### Connect with me: 
 
