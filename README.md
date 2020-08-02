@@ -11,8 +11,8 @@
 ### Connect with me: 
 
 [<img align="left" alt="edgardopintoescalier.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Edgardo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Edgardo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -24,8 +24,9 @@
 [<img align="left" alt="JavaScript" width="26px" title="JAVASCRIPT" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/jslogo.png?raw=true" />][website]
 [<img align="left" alt="React" width="26px" title="REACT" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/react.png?raw=true" />][website]
 [<img align="left" alt="Redux" width="26px" title="REDUX" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/icon_redux.png?raw=true" />][website]
-[<img align="left" alt="Gatsby" width="26px" title="GATSBY" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
-[<img align="left" alt="GraphQL" width="26px" title="GRAPHQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
+[<img align="left" alt="Gatsby" width="26px" title="GATSBY" src="https://raw.githubusercontent.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/3eabdf4376e2e4d4bedc3161b0335b253416e868/gatsby.svg" />][website]
+[<img align="left" alt="GraphQL" width="26px" title="GRAPHQL" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/GraphQL_Logo.jpg?raw=true" />][website]
+[<img align="left" alt="REST API" width="26px" title="REST API" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/restapi.png?raw=true" />][website]
 [<img align="left" alt="Node.js" width="26px" title="NODEJS" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/nodejs.png?raw=true" />][website]
 [<img align="left" alt="MongoDB" width="26px" title="MONGODB" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/mongo.png?raw=true" />][website]
 [<img align="left" alt="Express" width="26px" title="EXPRESSJS" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/express.png?raw=true" />][website]
