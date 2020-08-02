@@ -1,14 +1,14 @@
-### Hi there, I'm Edgardo - aka [E][website] 👋
+### HI THERE, I'M EDGARDO - AKA [E][website] 👋
 
-## I'm a Full-Stack Developer
+## I'M A FULL STACK DEVELOPER
 
-- 🚀 I’m currently working on different projects
-- 💻 I’m currently learning Deno and TypeScript
-- 🤲 I’m looking to collaborate with other Developers
-- 🛣️ 2020 Goals: Contribute more to Open Source projects
-- 😀 Fun fact: In my free time I like to work with wood (carpentry)
+- 🚀  I’m currently working on different projects
+- 💻  I’m currently learning Deno and TypeScript
+- 🤲  I’m looking to collaborate with other Developers
+- 🛣️  2020 Goals: Contribute more to Open Source projects
+- 😀  Fun fact: In my free time I like to work with wood (carpentry)
 
-### Connect with me: 
+### CONNECT WITH ME: 
 
 [<img align="left" alt="edgardopintoescalier.com" width="26px" src="https://raw.githubusercontent.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/a9a9d8e43eb8cf7dde5971e57bdbf64d1538508d/globe.svg" />][website]
 [<img align="left" alt="Edgardo | Twitter" width="26px" src="https://raw.githubusercontent.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/a9a9d8e43eb8cf7dde5971e57bdbf64d1538508d/twitter.svg" />][twitter]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools
+### LANGUAGES AND TOOLS
 
 [<img align="left" alt="HTML5" width="26px" title="HTML5" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/html5.png?raw=true" />][website]
 [<img align="left" alt="CSS3" width="26px" title="CSS3" src="https://github.com/EdgardoPinto-Escalier/EdgardoPinto-Escalier/blob/master/css3.jpg?raw=true" />][website]
