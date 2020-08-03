@@ -1,5 +1,7 @@
 ### Hi there, my name is Edgardo - aka [E][website] 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdgardoPinto-Escalier&label=Views&color=blueviolet&style=plastic" alt="EdgardoPinto-Escalier" /> </p>
+
 ### I'm a Full Stack Developer
 
 - 🚀  I’m currently working on different projects
